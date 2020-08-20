@@ -1,4 +1,4 @@
-hungry = input('are you hungry ??')
+hungry = input('are you bored ??')
 if hungry == 'yes':
     print('eat idly')
 else:
