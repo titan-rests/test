@@ -9,3 +9,9 @@ if name == 'sathvik'
     print('hi')
 else:
     print('Idk')
+
+age  = input('age')
+if age > 18 :
+    print('hi')
+else
+    print('idk')
